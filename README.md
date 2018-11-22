@@ -4,6 +4,8 @@
 El análisis sintáctico parcial hoy en día ha sido utilizado en las tareas de extracción de información y minería de textos, específicamente, los analizadores sintácticos probabilísticos los cuales permiten la obtención de subestructuras y estructuras del árbol más posible de una sentencia dada.
 </p>
 
+## Autores
+
 ## Website
 [Analizador sintáctico](http://eiscapp.univalle.edu.co/bikel/parser/index.php)
 
